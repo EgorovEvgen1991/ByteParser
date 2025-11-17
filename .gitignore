@@ -11,3 +11,5 @@ src/ClassLibrary1/.vs/ProjectEvaluation/classlibrary1.projects.v9.bin
 /src/ByteValidator/obj
 /src/ByteChecker/obj
 /src/ByteChecker/ByteChecker/bin
+/src/ByteChecker/bin
+/src/ByteValidator/bin

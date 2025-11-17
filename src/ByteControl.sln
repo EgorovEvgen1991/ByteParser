@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteChecker", "ByteChecker\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteValidator", "ByteValidator\ByteValidator.csproj", "{C1B62A94-1860-4D51-89F5-DABB00489EA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.ByteParser", "..\test\Tests\Tests.ByteParser\Tests.ByteParser.csproj", "{36CE8E1F-A205-4F19-A047-9A12F053ECAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.ByteParser", "Tests.ByteParser\Tests.ByteParser.csproj", "{6E84FA9E-8A5B-4C5A-B8BD-FFE971F6841A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{C1B62A94-1860-4D51-89F5-DABB00489EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B62A94-1860-4D51-89F5-DABB00489EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B62A94-1860-4D51-89F5-DABB00489EA2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{36CE8E1F-A205-4F19-A047-9A12F053ECAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36CE8E1F-A205-4F19-A047-9A12F053ECAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36CE8E1F-A205-4F19-A047-9A12F053ECAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36CE8E1F-A205-4F19-A047-9A12F053ECAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E84FA9E-8A5B-4C5A-B8BD-FFE971F6841A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E84FA9E-8A5B-4C5A-B8BD-FFE971F6841A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E84FA9E-8A5B-4C5A-B8BD-FFE971F6841A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E84FA9E-8A5B-4C5A-B8BD-FFE971F6841A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
