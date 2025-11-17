@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteChecker", "ByteChecker\ByteChecker.csproj", "{8D144AC1-4897-445E-B16A-9C8667D6EE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteValidator", "ByteValidator\ByteValidator.csproj", "{C1B62A94-1860-4D51-89F5-DABB00489EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.ByteParser", "..\test\Tests\Tests.ByteParser\Tests.ByteParser.csproj", "{36CE8E1F-A205-4F19-A047-9A12F053ECAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D144AC1-4897-445E-B16A-9C8667D6EE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D144AC1-4897-445E-B16A-9C8667D6EE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D144AC1-4897-445E-B16A-9C8667D6EE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D144AC1-4897-445E-B16A-9C8667D6EE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B62A94-1860-4D51-89F5-DABB00489EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B62A94-1860-4D51-89F5-DABB00489EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B62A94-1860-4D51-89F5-DABB00489EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B62A94-1860-4D51-89F5-DABB00489EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CE8E1F-A205-4F19-A047-9A12F053ECAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CE8E1F-A205-4F19-A047-9A12F053ECAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CE8E1F-A205-4F19-A047-9A12F053ECAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CE8E1F-A205-4F19-A047-9A12F053ECAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
