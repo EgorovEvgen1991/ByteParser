@@ -3,3 +3,5 @@ src/ClassLibrary1/.vs/ProjectEvaluation/classlibrary1.projects.v9.bin
 /src/ClassLibrary1/.vs
 /src/ByteChecker/ByteChecker/obj
 /src/ByteValidator/ByteValidator/obj
+/test/Tests/Tests.ByteParser/bin
+/test/Tests/Tests.ByteParser/obj
